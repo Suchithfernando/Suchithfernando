@@ -14,3 +14,7 @@
 <br>
 
 ![Suchith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suchithfernando&theme=algolia&show_icons=true)
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suchithfernando&repo=github-readme-stats)](https://github.com/Suchithfernando/github-readme-stats)
