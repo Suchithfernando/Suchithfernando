@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Suchith Fernando, Software Engineering undergraduate from Colombo Sri Lanka.
+**I'm Suchith Fernando, Software Engineering undergraduate from Colombo Sri Lanka.**
 
 
 
@@ -13,4 +13,4 @@ I'm Suchith Fernando, Software Engineering undergraduate from Colombo Sri Lanka.
 - ⚡ Fun fact: I Love sing also a dramatist in few Stage Dramas.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
