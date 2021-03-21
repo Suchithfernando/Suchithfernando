@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdyyy!! 👋
 **I'm Suchith Fernando, Software Engineering undergraduate from Colombo Sri Lanka.**
 
 
@@ -18,3 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchithfernando&layout=compact)](https://github.com/Suchithfernando/github-readme-stats)
 
+Love 💖 from Suchithfernando
