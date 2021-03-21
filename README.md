@@ -17,4 +17,5 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suchithfernando&repo=github-readme-stats)](https://github.com/Suchithfernando/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchithfernando&layout=compact)](https://github.com/Suchithfernando/github-readme-stats)
+
