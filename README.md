@@ -11,7 +11,6 @@
 - 📫 Mail via suchithdevfdo@gmail.com to reach me.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Love sing also a dramatist in few Stage Dramas.
-
-
+<br>
 
 ![Suchith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suchithfernando&theme=dark&show_icons=true)
