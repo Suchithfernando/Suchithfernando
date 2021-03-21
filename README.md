@@ -3,12 +3,12 @@
 
 
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Full Stack Developing
-- 👯 I’m looking to collaborate on Web Developing
-- 🤔 I’m looking for help with Anything related to IT
-- 💬 Ask me about Web
-- 📫 How to reach me: suchithdevfdo@gmail.com
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Full Stack Developing.
+- 👯 I’m looking to collaborate on Web Developing.
+- 🤔 I’m looking for help with Anything related to IT.
+- 💬 Ask me about Web.
+- 📫 Mail via suchithdevfdo@gmail.com to reach me.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Love sing also a dramatist in few Stage Dramas.
 
