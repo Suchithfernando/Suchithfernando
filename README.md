@@ -18,4 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchithfernando&layout=compact)](https://github.com/Suchithfernando/github-readme-stats)
 
-Love 💖 from https://github.com/Suchithfernando/Suchithfernando
+Love 💖 from Suchithfernando
