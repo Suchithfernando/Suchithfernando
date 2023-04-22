@@ -1,5 +1,5 @@
 ### Howdyyy!! 👋
-**I'm Suchith Fernando, Software Engineering undergraduate from Colombo Sri Lanka.**
+**I'm Suchith Fernando, Software Engineering Graduate from Colombo Sri Lanka.**
 
 
 
